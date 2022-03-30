@@ -10,3 +10,5 @@ tmp/**
 node_modules/
 .sass-cache
 *.mp4
+*.jpg
+*.png
