@@ -18,3 +18,12 @@
 .red-font{
     color: red;
 }
+
+.content-left{
+    display: flex;
+    justify-content: space-around;
+}
+
+.newh{
+    word-wrap:break-word !important;
+}
