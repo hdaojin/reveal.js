@@ -10,3 +10,11 @@
 .pleft{
     text-align: left;
 }
+
+.small-font{
+    font-size: 24px !important;
+}
+
+.red-font{
+    color: red;
+}
